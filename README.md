@@ -1,5 +1,7 @@
 <h2 align="center"><b>Trabalho de Conclusão de Curso - TCC</b></h2>
 
+<img src="https://github.com/kelvin-hey/tcc-tads-ifpr/blob/main/img/wall.png"/>
+
 ### Descrição
 Trabalho de conclusão do curso de Tecnologia em Análise e Desenvolvimento de Sistemas do Instituto Federal do Paraná (IFPR)
 
