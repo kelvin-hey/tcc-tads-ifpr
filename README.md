@@ -1,5 +1,3 @@
-<h2 align="center"><b>Trabalho de Conclusão de Curso - TCC</b></h2>
-
 <img src="https://github.com/kelvin-hey/tcc-tads-ifpr/blob/main/img/wall.png"/>
 
 ### Descrição
